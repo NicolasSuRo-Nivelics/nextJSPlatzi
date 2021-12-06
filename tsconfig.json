@@ -26,7 +26,6 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
-    "ignoreBuildErrors": true,
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "node",
