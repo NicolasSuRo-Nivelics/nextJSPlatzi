@@ -25,6 +25,7 @@
     "skipLibCheck": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
+    "declaration": true,
     "emitDeclarationOnly": true,
     "outDir": "dist",
     "esModuleInterop": true,
